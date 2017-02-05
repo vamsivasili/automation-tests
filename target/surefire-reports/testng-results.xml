@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.shearcircle.AppTest" duration-ms="17204" started-at="2017-02-05T05:05:12Z" finished-at="2017-02-05T05:05:30Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="17204" started-at="2017-02-05T05:05:12Z" finished-at="2017-02-05T05:05:30Z">
+      <class name="com.shearcircle.AppTest">
+        <test-method status="PASS" signature="testGoogle()[pri:0, instance:com.shearcircle.AppTest@7f690630]" name="testGoogle" duration-ms="17181" started-at="2017-02-04T23:05:12Z" finished-at="2017-02-04T23:05:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogle -->
+      </class> <!-- com.shearcircle.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.shearcircle.AppTest -->
+</testng-results>
